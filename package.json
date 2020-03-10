@@ -1,5 +1,5 @@
 {
-  "name": "countries-states-cities-database",
+  "name": "country-state-city",
   "version": "1.0.0",
   "description": "Country, State, and City listings",
   "main": "index.js",
